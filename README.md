@@ -23,3 +23,21 @@ https://github.com/eGovFramework/egovframe-template-simple-backend
 
 ![Backend 구동](/Docs/startBackend.jpg)
 
+
+-------------------------------------------------------------------------------------------
+
+Backend : 8080
+Frontend : 8081
+-------------------------------------------------------------------------------------------
+.env.development
+
+NODE_ENV=development
+VUE_APP_API_BASE_URL=http://localhost:8081
+# 필수 지정 값
+
+## 절대경로 지정
+NODE_PATH=src/
+
+## 절대경로 지정
+VUE_APP_EGOV_CONTEXT_URL=localhost:8080
+-------------------------------------------------------------------------------------------
