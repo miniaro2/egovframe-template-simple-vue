@@ -12,3 +12,9 @@ https://github.com/eGovFramework/egovframe-template-simple-react
 지난 몇일 제가 고생했던 것을 '어디선가', '누군가가' 반복하지 않기를 바라며 공유합니다.
 
 당신의 잠재적 동업자가 당신을 응원하겠습니다^^
+
+
+# BackEnd 구동
+심플 홈페이지 Backend 소스를 받아 구동한다.
+https://github.com/eGovFramework/egovframe-template-simple-backend
+
