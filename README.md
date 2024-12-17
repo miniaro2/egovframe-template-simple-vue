@@ -1,6 +1,10 @@
 # egovframe-template-simple-vue
 
+이상한 거 있으면 miniaron@empal.com로 메일 주셔도 됩니다^^
+
+
 본 프로젝트는 React로 구성된 
+
 "표준프레임워크 심플홈페이지 FrontEnd"를 Vue.js로 컨버전 하여 구성되었습니다.
 
 https://github.com/eGovFramework/egovframe-template-simple-react
